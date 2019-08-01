@@ -77,6 +77,7 @@ Blazor was the code name for the experimental product. The official product will
 - [SignalR](https://github.com/BlazorExtensions/SignalR) - SignalR Core support for Microsoft ASP.NET Core Blazor.
 - [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) ([Demo](https://sotsera.github.io/sotsera.blazor.toaster/)) - A Blazor port of [Toastr.js](https://github.com/CodeSeven/toastr/).
 - [Storage](https://github.com/BlazorExtensions/Storage) - HTML5 Storage API implementation for Microsoft Blazor.
+- [Syncfusion Blazor Components](https://www.syncfusion.com/blazor-components) - The Complete Blazor component library for LoB applications.
 - [Toastr](https://github.com/BlazorExtensions/Toastr) - A Blazor port of [Toastr.js](https://github.com/CodeSeven/toastr/).
 
 
