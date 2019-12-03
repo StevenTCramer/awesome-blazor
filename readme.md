@@ -132,6 +132,7 @@ Blazor was the code name for the experimental product. The official product will
 ## Tooling
 
 - [BlazorFiddle](https://blazorfiddle.com) - Blazor .NET developer playground and code editor in the browser.
+- [Blazor Minimal Project Template](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.BlazorMinimalProjectTemplate) - A project template for a web application with a minimal implementation of client-side Blazor.
 - [Blazor Minimum Project Templates](https://github.com/jsakamoto/BlazorMinimumTemplates) - A project templates package of Blazor apps without JavaScript and CSS libraries.
 - [Blazor Snippets Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=ScottSauber.blazorsnippets) - A Visual Studio Code extension that offers Blazor and Razor snippets.
 - [Razor+ Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=austincummings.razor-plus) - A Visual Studio Code extension that offers improved Razor support.
