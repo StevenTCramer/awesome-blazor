@@ -72,7 +72,7 @@ Blazor was the code name for the experimental product. The official product will
 - [ChartJs.Blazor](https://github.com/mariusmuntean/ChartJs.Blazor) - Blazor Component that wraps ChartJS.
 - [Elmah.Io.Blazor](https://github.com/elmahio/Elmah.Io.Blazor) - Logs from Blazor to [elmah.io](https://elmah.io/) using Microsoft.Extensions.Logging.
 - [Logging](https://github.com/BlazorExtensions/Logging) - Microsoft Extension Logging implementation for Blazor.
-- [MatBlazor](https://github.com/BlazorComponents/MatBlazor) ([Demo](https://blazorcomponents.github.io/MatBlazor/)) - Google Material components for web in Blazor.
+- [MatBlazor](https://github.com/BlazorComponents/MatBlazor) ([Demo](https://blazorcomponents.github.io/MatBlazor/)) - Material Design components for web in Blazor.
 - [Notifications](https://github.com/BlazorExtensions/Notifications) - HTML5 Notifications API implementation for Microsoft Blazor.
 - [SignalR](https://github.com/BlazorExtensions/SignalR) - SignalR Core support for Microsoft ASP.NET Core Blazor.
 - [Sotsera.Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) ([Demo](https://sotsera.github.io/sotsera.blazor.toaster/)) - A Blazor port of [Toastr.js](https://github.com/CodeSeven/toastr/).
