@@ -42,6 +42,7 @@ Blazor was the code name for the experimental product. The official product will
 - [Blazor SpeechSynthesis](https://github.com/jsakamoto/Toolbelt.Blazor.SpeechSynthesis) - A library to provide Speech Synthesis API access for Blazor.
 - [Blazor SVG Helper](https://github.com/Lupusa87/BlazorSvgHelper) ([Demo](https://lupblazordemos.z13.web.core.windows.net)) - Create SVG elements with children (circle, rectangle, image, text, and others) and render with RenderTreeBuilder.
 - [Blazor Time Zone Kit](https://github.com/jsakamoto/Toolbelt.Blazor.TimeZoneKit) - A library to provide system time zones and local time zone initialization in Blazor apps.
+- [Blazor Time](https://github.com/dustout/BlazorTime) - A library to display dates and times in the users local time.
 - [Blazor Tweet Button](https://github.com/jsakamoto/Toolbelt.Blazor.TwitterShareButton) - A Tweet Button component for Blazor.
 - [Blazor-State](https://timewarpengineering.github.io/blazor-state/) - Blazor-State is a client side pipeline architecture utilizing MediatR with plugin behaviors.
 - [Blazor.Extensions.OfficeUIFabric](https://github.com/BlazorExtensions/Blazor.Extensions.OfficeUIFabric) - Microsoft Office Fabric UI port for Blazor.
